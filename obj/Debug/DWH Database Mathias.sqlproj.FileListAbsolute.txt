@@ -1,0 +1,10 @@
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\bin\Debug\DWH Database Mathias.dacpac
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\bin\Debug\DWH Database Mathias.dll
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\bin\Debug\DWH Database Mathias.pdb
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\DWH Database Mathias.sqlprojAssemblyReference.cache
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\Model.xml
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\refactor.xml
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\postdeploy.sql
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\predeploy.sql
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\DWH Database Mathias.dll
+c:\Users\user\Documents\Aivix\Training\Devops\DWH Database Mathias\obj\Debug\DWH Database Mathias.pdb

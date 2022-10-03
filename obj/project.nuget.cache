@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "660S7VN2lOssa2pMfa97wAgn85osch73RYbgn41FyBthhSqVEo7tmVXzOWJK17PyKVN/30j/Cm6y2lY7ilYIlA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\user\\Documents\\Aivix\\Training\\Devops\\DWH Database Mathias\\DWH Database Mathias.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
